@@ -4,6 +4,8 @@ I make websites, edit videos, and work with motion graphics. Based in Paraguay.
 
 Most of my web work uses React, TypeScript and CSS. I also use Canvas and SVG for animation.
 
+For video editing and motion graphics, I use Adobe Creative Cloud, mainly Premiere Pro and After Effects.
+
 [LinkedIn](https://www.linkedin.com/in/gast%C3%B3n-acu%C3%B1a-9b065735b/)
 
 ### A few things I've made
