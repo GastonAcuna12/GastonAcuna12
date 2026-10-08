@@ -35,7 +35,7 @@ Soy **Gastón Acuña**. Desarrollo experiencias web con diseño, animación e in
 <h3>Andrea Brítez</h3>
 <p>Una web profesional de estética editorial. Jerarquía tipográfica, una paleta cálida y transiciones sutiles para acompañar la lectura.</p>
 <p><sub>HTML · CSS · JavaScript · Diseño editorial</sub></p>
-<p><a href="https://github.com/GastonAcuna12/andrea-britez-portafolio">Explorar proyecto ↗</a></p>
+<p><a href="https://dra-andrea-britez.vercel.app/">Ver sitio ↗</a> · <a href="https://github.com/GastonAcuna12/andrea-britez-portafolio">Código ↗</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/GastonAcuna12/AtlasPersonalOS"><img src="assets/atlas-preview.jpg" width="100%" alt="Dashboard de Atlas en una sesión local vacía: planificación, progreso y módulos de organización personal." /></a>
