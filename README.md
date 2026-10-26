@@ -13,9 +13,9 @@ For video editing and motion graphics, I use Adobe Creative Cloud, mainly Premie
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/GastonAcuna12/EditingPortafolio"><img src="assets/editing-preview.jpg" width="100%" alt="My video editing portfolio" /></a>
-<p><strong>Video portfolio</strong><br />A home for my editing and motion work. Built with React and Motion.</p>
-<a href="https://github.com/GastonAcuna12/EditingPortafolio">Code</a>
+<a href="https://gaston.mov"><img src="assets/editing-preview.jpg" width="100%" alt="My video editing portfolio" /></a>
+<p><a href="https://gaston.mov"><strong>Video portfolio</strong></a><br />A dark, full-screen hero and editorial work gallery. Built with React, Motion and Lenis.</p>
+<a href="https://gaston.mov">Live site</a> · <a href="https://github.com/GastonAcuna12/EditingPortafolio">Code</a>
 </td>
 <td width="50%" valign="top">
 <a href="https://ceci20.party/"><img src="assets/cecilia-preview.jpg" width="100%" alt="Cecilia's paper collage birthday invitation" /></a>
@@ -30,9 +30,9 @@ For video editing and motion graphics, I use Adobe Creative Cloud, mainly Premie
 <a href="https://dra-andrea-britez.vercel.app/">Live site</a> · <a href="https://github.com/GastonAcuna12/andrea-britez-portafolio">Code</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/GastonAcuna12/AtlasPersonalOS"><img src="assets/atlas-preview.jpg" width="100%" alt="Atlas personal dashboard with no personal data" /></a>
-<p><strong>Atlas</strong><br />A personal dashboard for plans, habits, notes and tasks. Built with Next.js.</p>
-<a href="https://github.com/GastonAcuna12/AtlasPersonalOS">Code</a>
+<img src="assets/atlas-preview.jpg" width="100%" alt="Atlas personal dashboard with no personal data" />
+<p><strong>Atlas</strong><br />A personal app for the day, money and gym. Runs on Mac and iPhone. Built with Next.js and Capacitor.</p>
+Private project
 </td>
 </tr>
 </table>
